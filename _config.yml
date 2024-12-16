@@ -107,4 +107,6 @@ search:
 # Deployment
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
-  type: ""
+  type: git
+  repository: https://github.com/jinfazhu-mygit/jinfazhu-mygit.github.io
+  branch: gh-pages
